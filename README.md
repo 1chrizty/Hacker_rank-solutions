@@ -8,7 +8,7 @@ SOLUTIONS IN PYTHON
     As how the code works :-
 Equalize the array - https://www.hackerrank.com/challenges/equality-in-a-array/problem?isFullScreen=true
 solving method:
-
+.Solution
 ->Create an array called "buckets" with a size of 101. This array will be used to count the frequencies of elements in the input array. The size 101 is chosen to accommodate integer values between 0 and 100 (as per the constraints).
 
 ->Loop through the elements in the input array "arr" and increment the corresponding bucket in the "buckets" array for each element. This step counts the frequency of each unique element in the input array.
